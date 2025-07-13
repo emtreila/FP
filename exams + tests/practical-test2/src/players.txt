@@ -1,0 +1,13 @@
+0,Maria,45
+1,Alexandru,34
+2,Melania,68
+3,David,56
+4,Tudor,55
+5,Cristian,33
+6,Ana,500
+7,Beatrice,90
+8,Amalia,89
+9,Mihai,88
+10,Sofia,40
+11,Alessia,60
+12,Andreea,91
