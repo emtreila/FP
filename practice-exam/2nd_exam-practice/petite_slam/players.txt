@@ -1,0 +1,11 @@
+0,Alice,100
+1,Bob,59
+2,Charlie,34
+3,Dave,23
+4,Eve,12
+5,Frank,77
+6,Grace,45
+7,Heidi,88
+8,Ivan,35
+9,Judy,66
+10,Kevin,99

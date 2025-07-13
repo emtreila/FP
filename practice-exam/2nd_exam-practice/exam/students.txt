@@ -1,0 +1,10 @@
+0,  Badescu Mihai, 13, 10
+1,  Avram Ionut, 3, 4
+3,  Popescu Ion, 10, 10
+4,  Ionescu Maria, 12, 7
+5,  Popa Marcel, 5, 6
+6,  Zharia Beatrice, 8, 7
+7,  Cosnita Maria , 17, 10
+8,  Popescu Ana, 7, 2
+9,  Ionescu Vlad, 9, 8
+10, mela mela, 12, 2

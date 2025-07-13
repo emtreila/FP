@@ -1,0 +1,6 @@
+0,Alex
+1,Ion
+2,Marcel
+3,Maria
+4,Oana
+6,Andrei

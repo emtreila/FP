@@ -1,0 +1,6 @@
+0,Anna,I will make sure to implement a layered architecture solution
+1,John,The program is layered
+2,Betty,I did not understand layered architecture
+3,Vlad,My proposed solution does not include a layered architecture
+4,Anna,The program is not layered
+5,name,solution
